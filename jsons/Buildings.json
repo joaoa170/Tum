@@ -1,0 +1,13 @@
+[
+	{
+	"name": "Tuum",
+		"cost": 500,
+		"culture": 1,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Engineer": 10},
+        "uniques": ["[+100]% [Food] [in all cities]","[+300]% [Gold] from Trade Routes", 
+			"[+15]% Production when constructing [Archery] units [in this city]",
+            "[+15]% Production when constructing [Ranged Gunpowder] units [in this city]"],
+		 "[+300]% [Gold] [in all cities]",
+		"requiredTech": "Archery"	}
+]
