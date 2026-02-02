@@ -1,7 +1,7 @@
 [
 	{
 	"name": "Tuum",
-		"cost": 500,
+		"cost": 0,
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 10},
