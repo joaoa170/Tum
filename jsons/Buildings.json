@@ -9,6 +9,5 @@
 			"[+15]% Production when constructing [Archery] units [in this city]",
             "[+15]% Production when constructing [Ranged Gunpowder] units [in this city]",
 		 "[+300]% [Gold] [in all cities]",
-		"requiredTech": "Archery" 
-	}
+			}
 ]
